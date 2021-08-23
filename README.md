@@ -1,5 +1,7 @@
 # Predicting-Customer-Churn
-Predicting Customer Churn
+This is a supervised learning example where I tuned the best parameters and test the best models to predict customer churn.
+
+---------------------------------------------
 Kaggle dataset description
 source
 
