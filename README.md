@@ -4,7 +4,7 @@ Kaggle dataset description
 source
 
 Context:
-"Predict behavior to retain customers. You can analyze all relevant customer data and develop focused customer retention programs." [IBM Sample Data Sets]
+"Predict behavior to retain customers. You can analyze all relevant customer data and develop focused customer retention programs." 
 
 Content:
 Each row represents a customer, each column contains customer’s attributes described on the column Metadata.
